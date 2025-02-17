@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gijus.csgad.com/YjW/sitemap.xml.gz
